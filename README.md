@@ -1,7 +1,7 @@
 ## Carl Christensen's ePortfolio
 
 ### Code Review
-[![HERE IS MY CODE REVIEW](https://img.youtube.com/vi/CbwyjuzUzXA/0.jpg)](https://www.youtube.com/watch?v=CbwyjuzUzXA)
+[Watch my code review here](https://media.githubusercontent.com/media/cpchristensen/cpchristensen.github.io/master/code-review.mp4)
 
 ### Enhancement 1: Software Design and Engineering
 [Link to repository](https://github.com/cpchristensen/grade-viewer)
